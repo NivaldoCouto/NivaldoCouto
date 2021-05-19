@@ -6,6 +6,7 @@
 - linkedin.com/in/nivaldocouto-sistemasdeinformacao/
 - facebook.com/nivaldo.couto/
 - instagram.com/nivaldo_couto/
+- Discord.com/Nivaldo Couto#4374
 
 <!---
 NivaldoCouto/NivaldoCouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
